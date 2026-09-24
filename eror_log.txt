@@ -1,0 +1,4 @@
+dòng lỗi: Samsung S24 Ultra - hai  -28000000    | lý do: invalid literal for int() with base 10: ' hai  '
+dòng lỗi: Sony WH-1000XM5 - 4    | lý do: invalid literal for int() with base 10: '1000XM5 '
+dòng lỗi: Samsung S24 Ultra - hai  -28000000    | lý do: invalid literal for int() with base 10: ' hai  '
+dòng lỗi: Sony WH-1000XM5 - 4    | lý do: invalid literal for int() with base 10: '1000XM5 '
